@@ -6,7 +6,7 @@ Documentação oficial do cajuOS.
 
 ## Acessar
 
-- Site de docs: `https://docs.cajuos.com`
+- Site de docs (planejado): `https://docs.cajuos.dev`
 - Código-fonte: este repositório
 
 ## Rodar localmente
