@@ -1,5 +1,7 @@
 # cajuOS Docs
 
+![Banner cajuOS Docs](./public/cajuos-docs-readme-banner.png)
+
 Documentação oficial do cajuOS em Astro + Starlight.
 
 ## Requisitos
