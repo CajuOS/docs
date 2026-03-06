@@ -1,0 +1,13 @@
+:root {
+  --sl-color-accent-low: #ffe9d5;
+  --sl-color-accent: #e86a00;
+  --sl-color-accent-high: #9f4500;
+}
+
+.hero img {
+  border-radius: 12px;
+}
+
+:where(h1, h2, h3) {
+  letter-spacing: -0.02em;
+}
