@@ -4,6 +4,8 @@
 
 Documentação oficial do cajuOS.
 
+Última atualização de conteúdo: **9 de março de 2026**.
+
 ## Acessar
 
 - Site de docs (planejado): `https://docs.cajuos.dev`

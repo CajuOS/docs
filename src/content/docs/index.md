@@ -3,6 +3,8 @@ title: Documentação oficial do cajuOS
 description: Guia completo para setup, operação e escala com os módulos do cajuOS.
 ---
 
+_Última atualização: 9 de março de 2026_
+
 O cajuOS centraliza aquisição, priorização, comunicação e confiabilidade do seu SaaS em uma única camada operacional.
 
 ## Escopo oficial
@@ -12,8 +14,6 @@ O cajuOS centraliza aquisição, priorização, comunicação e confiabilidade d
 - Roadmap
 - Feedback
 - Status page
-- Billing
-- Analytics
 
 ## Caminho recomendado
 
@@ -29,4 +29,4 @@ O cajuOS centraliza aquisição, priorização, comunicação e confiabilidade d
 - Rodar `cajuos status` antes e depois de deploy.
 - Publicar changelog para toda mudança com impacto de usuário.
 - Comunicar incidente real na status page sem atraso.
-- Decidir upgrade de plano por métrica de uso, não por sensação.
+- Revisar feedback e roadmap de forma recorrente.
